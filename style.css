@@ -1,0 +1,41 @@
+
+  .hero {
+
+  }
+
+.apresentacao {
+   
+   
+}
+/* minha foto*/
+  #eu {
+      width: 130px;
+  }
+
+
+  /* essas mexe nas imagens das musicas*/
+ .sons {
+     width: 120px;
+    padding: 4px;
+
+ }
+
+/*essa mexe, em geral, em toda a seçao de musicas*/
+ .musicas {
+     display: flex;
+     justify-content: center;
+     gap: 35px;
+ }
+
+ /* essa mexe nas opçoes de musicas junto do texto a cima*/
+ .musics {
+    text-align: center;
+    border: 1.5px solid black;
+ }
+
+ .botoes {
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+ }
+
