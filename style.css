@@ -1,41 +1,70 @@
 
   .hero {
-
-  }
+background-color: rgba(130, 236, 255, 0.719);
+}
 
 .apresentacao {
-   
-   
+ 
+ 
 }
 /* minha foto*/
-  #eu {
-      width: 130px;
-  }
+#eu {
+    width: 130px;
+}
 
 
-  /* essas mexe nas imagens das musicas*/
- .sons {
-     width: 120px;
-    padding: 4px;
+/* essas mexe nas imagens das musicas*/
+.sons {
+   width: 120px;
+  padding: 4px;
 
- }
+}
 
 /*essa mexe, em geral, em toda a seçao de musicas*/
- .musicas {
-     display: flex;
-     justify-content: center;
-     gap: 35px;
- }
+.musicas {
+   display: flex;
+   justify-content: center;
+   gap: 35px;
+}
 
- /* essa mexe nas opçoes de musicas junto do texto a cima*/
- .musics {
-    text-align: center;
-    border: 1.5px solid black;
- }
+/* essa mexe nas opçoes de musicas junto do texto a cima*/
+.musics {
+  text-align: center;
+  border: 1.5px solid black;
+}
 
- .botoes {
-     display: flex;
-     justify-content: center;
-     gap: 20px;
- }
+.botoes {
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+}
+
+.sobre-mim {
+    
+}
+
+.fotoo {
+display: flex;
+flex-direction: row;
+gap: 25px;
+align-items: center;
+}
+
+.rodape {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+
+}
+
+.aton {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.gatun1 {
+    display: flex;
+    flex-direction: column;
+}
 
